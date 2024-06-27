@@ -335,12 +335,12 @@ namespace ModuleWorld_Analog {
     }
 
     export enum mwAnalogNum {
-        //% blockId="P0P1" block="P0P1"
-        AP0P1 = 1,
-        //% blockId="P2P3" block="P2P3"
-        AP2P3 = 2,
-        //% blockId="P3P4" block="P3P4"
-        AP3P4 = 3
+        //% blockId="P0P3" block="P0P3"
+        AP0P3 = 1,
+        //% blockId="P1P2" block="P1P2"
+        AP1P2 = 2,
+        //% blockId="P6P4" block="P6P4"
+        AP6P4 = 3
     }	
 
     //% blockId=ModuleWorld_Anaglog_Light block="Light|pin %value_ANum"
